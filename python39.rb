@@ -1,6 +1,6 @@
 require 'package'
 
-class Python3 < Package
+class Python39 < Package
   description 'Python is a programming language that lets you work quickly and integrate systems more effectively.'
   homepage 'https://www.python.org/'
   @_ver = '3.9.7'
