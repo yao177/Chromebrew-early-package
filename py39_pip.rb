@@ -1,6 +1,6 @@
 require 'package'
 
-class Py3_pip < Package
+class Py39_pip < Package
   description 'Pip is the python package manager from the Python Packaging Authority.'
   homepage 'https://pip.pypa.io/'
   @_ver = '21.1.1'
